@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "event-driven-analytics"
+version = "0.1.0"
+description = ""
+authors = ["alphaleph <5832269+alphaleph@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "2.31.0"
+psycopg2 = "^2.9.10"
+faust = "^1.10.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

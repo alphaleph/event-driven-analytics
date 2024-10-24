@@ -1,1 +1,1 @@
-# kafka-analytics
+# event-driven-analytics
